@@ -1,0 +1,7 @@
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\bin\Debug\PythonNetTestApp.exe.config
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\bin\Debug\PythonNetTestApp.exe
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\bin\Debug\PythonNetTestApp.pdb
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\bin\Debug\Python.Runtime.dll
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\obj\Debug\PythonNetTestApp.csprojResolveAssemblyReference.cache
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\obj\Debug\PythonNetTestApp.exe
+c:\users\wrobinson\documents\visual studio 2017\Projects\PythonNetTestApp\PythonNetTestApp\obj\Debug\PythonNetTestApp.pdb
